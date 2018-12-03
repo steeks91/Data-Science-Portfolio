@@ -2,4 +2,7 @@
 A portfolio summarizing my work and findings from my Data Science projects and tools
 
 
-### Test
+## Content
+---
+- ### Visualization
+  - [Power BI Learnings and Best Practices](https://github.com/steeks91/Data-Science-Portfolio/edit/master/README.md) - 
