@@ -5,8 +5,8 @@ A portfolio summarizing my work and findings from my Data Science projects and t
 ## Content
 ---
 - ### Visualization
-  - [Power BI Learnings and Best Practices](https://github.com/steeks91/Data-Science-Portfolio/edit/master/README.md) - A summary of my   findings and learning after working with Power BI for almost one year
-  - [Visualizations for Time Series](Data-Science-Portfolio/Visualizations/Visualizations Time Series.ipynb) - Some examples of useful visualizations to find patterns is time series data
+  - [Power BI Learnings and Best Practices](https://github.com/steeks91/Data-Science-Portfolio/Visualizations/PowerBI-learnings-best-practices.md) - A summary of my   findings and learning after working with Power BI for almost one year
+  - [Visualizations for Time Series](https://github.com/steeks91/Data-Science-Portfolio/Visualizations/Visualizations Time Series.ipynb) - Some examples of useful visualizations to find patterns is time series data
       
 
 *Tools: PowerBI, Matplotlib, Seaborn, Pandas, statsmodels*
@@ -14,7 +14,7 @@ A portfolio summarizing my work and findings from my Data Science projects and t
 - ### Time Series
   - [Revenue Forecasting](Data-Science-Portfolio/Time_Series/Revenue Forecasting) - Forecasting Revenue using statistical models, supervised models and a combination. 
 
-*Tools: Pandas, scikit, statsmodels, Prophet, 
+*Tools: Pandas, scikit, statsmodels, Prophet, *
 
 
 
