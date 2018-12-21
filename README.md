@@ -7,9 +7,10 @@ A portfolio summarizing my work and findings from my Data Science projects and t
 - ### Visualization
   - [Power BI Learnings and Best Practices](https://github.com/steeks91/Data-Science-Portfolio/Visualizations/PowerBI-learnings-best-practices.md) - A summary of my   findings and learning after working with Power BI for almost one year
   - [Visualizations for Time Series](https://github.com/steeks91/Data-Science-Portfolio/Visualizations/Visualizations-Time-Series.ipynb) - Some examples of useful visualizations to find patterns in time series data
+  - [Thoughtspot - Search Driven Analytics](https://github.com/steeks91/Data-Science-Portfolio/blob/master/Visualizations/ThoughtSpot.md) - A tool for democratizing data
       
 
-*Tools: PowerBI, Matplotlib, Seaborn, Pandas, statsmodels*
+*Tools: PowerBI, Matplotlib, Seaborn, Pandas, statsmodels, Thougthspot*
 
 - ### Time Series
   - [Temperature Forecasting](Data-Science-Portfolio/Time_Series/Time-Series-Forecasting.ipynb) - Forecasting temperature using statistical models, supervised models and a combination. 
