@@ -8,7 +8,7 @@ There are still some improvements (mainly with shared data between different rep
 full potential can be reach. But it's getting there. 
 
 - Remember that the report will be maintained. Shortcuts quickly become a burden.
-- Start to think what questions the user want to answer. How can that be communicated.
+- Start to think what questions the user want answered. How can that be communicated?
 - Less is often more. Use easily interpreted visualizations
 - Use measures over calculated columns
 - Take time to learn new things. This is easy to forget, but in the long run, you'll be much more effective.
