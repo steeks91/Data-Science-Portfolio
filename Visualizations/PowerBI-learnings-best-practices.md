@@ -33,6 +33,7 @@ full potential can be reach. But it's getting there.
   
 - #### Visualizations
   - Use measures over calculated columns. The reason is heavily decreased performance with many calculated columns. It takes longer time to create in the beginning but you'll get payback from your invested time. Manyfold. 
+  - Never use the default summarization directly on a column. It makes it hard to maintain if you want to add some condition at a later stage
   - Write easily interpreted DAX code. It's IMPOSSIBLE to understand complex formulas unless they are structured inuitively. Use VAR and possibly [this link](https://www.daxformatter.com/)
   - Do a measure in small steps. Using variables and display the pieces as you progress. [A great example](https://exceleratorbi.com.au/how-to-solve-a-complex-dax-problem/)
   - Use a calendar table
