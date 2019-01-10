@@ -43,7 +43,7 @@ full potential can be reach. But it's getting there.
 - #### Distribution
   - Use Apps to distribute to a large audience. This way you can test the newly created app without affecting the end users. [White paper from Microsoft](https://aka.ms/pbienterprisedeploy)
   - Create a new workspace when distributing a new project. This way you can control the access for users. It's not yet (at time of writing) possible to create multiplicate Apps from the same workspace
-Other
+- #### Other
   - Save the report on Onedrive for automatic version control. Doing this manually gets problematic when distributing new versions of a report. If they don't have the same name, it will we published as a separate report and all the access need to be redone. 
   - Use templates and themes. This give all the users a common ground and improves efficiency. 
   
